@@ -5,5 +5,5 @@ This is a simple web-based dice game where two players roll a die and the player
 git clone https://github.com/Azam-aa/Dice-game.git
 
 cd Dice-game
-
 Open index.html in your favorite web browser to play the game.
+
